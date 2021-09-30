@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.0.0...v1.0.1) (2021-09-30)
+
+
+### Bug Fixes
+
+* add @cocreate/action ([ec83694](https://github.com/CoCreate-app/CoCreate-rich-text/commit/ec836949bb625e6d51911d78f2b572f58b155ef3))
+
 # 1.0.0 (2021-09-30)
 
 
