@@ -1,4 +1,5 @@
 /*global CoCreate*/
+import action from '@cocreate/action';
 import text from '@cocreate/text';
 // import attributes from '@cocreate/attributes';
 
@@ -35,7 +36,7 @@ function  nodeName(btn) {
     text.insertText(element, newValue, start, range);
 }
 
-CoCreate.action.init({
+action.init({
 	action: "nodeName",
 	endEvent: "nodeName",
 	callback: (btn, data) => {

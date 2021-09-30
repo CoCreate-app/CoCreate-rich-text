@@ -1,4 +1,5 @@
-/*global CoCreate, CustomEvent*/
+/*global CustomEvent*/
+import action from '@cocreate/action';
 import uuid from '@cocreate/uuid';
 import toolbar from '@cocreate/toolbar';
 import text from '@cocreate/text';
@@ -40,7 +41,7 @@ function  deleteElement(btn) {
 	toolbar.hide(element);
 }
 
-CoCreate.action.init({
+action.init({
 	action: "deleteElement",
 	endEvent: "deleteElement",
 	callback: (btn, data) => {
@@ -48,7 +49,7 @@ CoCreate.action.init({
 	}
 });
 
-CoCreate.action.init({
+action.init({
 	action: "cloneElement",
 	endEvent: "cloneElement",
 	callback: (btn, data) => {
