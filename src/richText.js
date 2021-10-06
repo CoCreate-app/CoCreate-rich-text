@@ -1,7 +1,7 @@
 /*global CoCreate*/
 import action from '@cocreate/action';
 import text from '@cocreate/text';
-// import attributes from '@cocreate/attributes';
+import getSelection from '@cocreate/selection';
 
 	let element;
 	
@@ -27,7 +27,7 @@ function  nodeName(btn) {
 
 	let value = selection.toString();
 	
-	const { start, end, range } = text.getSelections(element);
+	const { start, end, range } = getSelection(element);
     if(start != end) {
         text.deleteText(element, start, end, range);
     }
