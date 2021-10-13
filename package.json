@@ -61,11 +61,11 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@cocreate/action": "^1.2.25",
-    "@cocreate/docs": "^1.2.29",
-    "@cocreate/hosting": "^1.2.25",
-    "@cocreate/text": "^1.9.5",
-    "@cocreate/toolbar": "^1.6.3",
-    "@cocreate/uuid": "^1.1.25"
+    "@cocreate/action": "^1.2.27",
+    "@cocreate/docs": "^1.2.30",
+    "@cocreate/hosting": "^1.2.27",
+    "@cocreate/text": "^1.9.6",
+    "@cocreate/toolbar": "^1.6.4",
+    "@cocreate/uuid": "^1.1.26"
   }
 }
