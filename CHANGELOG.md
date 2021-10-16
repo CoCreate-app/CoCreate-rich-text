@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.0.12...v1.0.13) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([f087450](https://github.com/CoCreate-app/CoCreate-rich-text/commit/f08745069ffa930e1a3ed53762a07cf21243a12e))
+
 ## [1.0.12](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.0.11...v1.0.12) (2021-10-15)
 
 
