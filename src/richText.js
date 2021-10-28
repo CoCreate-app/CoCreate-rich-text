@@ -1,4 +1,3 @@
-/*global CoCreate*/
 import action from '@cocreate/action';
 import text from '@cocreate/text';
 import getSelection from '@cocreate/selection';
@@ -31,8 +30,7 @@ function  nodeName(btn) {
     if(start != end) {
         text.deleteText(element, start, end, range);
     }
-    let id = CoCreate.uuid.generate(6);
-    let newValue = `<${name} element_id="${id}">${value}</${name}>`;
+    let newValue = `<${name}>${value}</${name}>`;
     text.insertText(element, newValue, start, range);
 }
 

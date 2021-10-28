@@ -1,6 +1,5 @@
 /*global CustomEvent*/
 import action from '@cocreate/action';
-import uuid from '@cocreate/uuid';
 import toolbar from '@cocreate/toolbar';
 import text from '@cocreate/text';
 
@@ -10,12 +9,11 @@ function  cloneElement(btn) {
 	let domTextEditor = targetElement.ownerDocument.documentElement;
 	
 	var clone = targetElement.cloneNode(true);
-	clone.setAttribute('element_id', uuid.generate(6));
-	
+
 	text.insertAdjacentElement({
 		domTextEditor,
 		position: 'afterend',
-		target: targetElement.getAttribute("element_id"),
+		target: targetElement,
 		elementValue: clone.outerHTML,
 	});
 	
@@ -35,7 +33,7 @@ function  deleteElement(btn) {
 
 	text.removeElement({
 		domTextEditor,
-		target: targetElement.getAttribute("element_id"),
+		target: targetElement
 	});
 	
 	toolbar.hide(element);
