@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.0.14...v1.1.0) (2021-10-29)
+
+
+### Features
+
+* removed the need for element_id, uses cssPath instead ([c45f22d](https://github.com/CoCreate-app/CoCreate-rich-text/commit/c45f22d7594219ee170746c6a22f26d6f203d099))
+
 ## [1.0.14](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.0.13...v1.0.14) (2021-10-17)
 
 
