@@ -28,10 +28,10 @@ function  nodeName(btn) {
 	
 	const { start, end, range } = getSelection(element);
     if(start != end) {
-        text.deleteText(element, start, end, range);
+        text.updateText(element, start, end, range);
     }
     let newValue = `<${name}>${value}</${name}>`;
-    text.insertText(element, newValue, start, range);
+    text.updateText(element, newValue, start, range);
 }
 
 action.init({
