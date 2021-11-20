@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.1.13...v1.2.0) (2021-11-20)
+
+
+### Features
+
+* copy.js to copy inner or outterhtml and add to cipboard ([8bc4e43](https://github.com/CoCreate-app/CoCreate-rich-text/commit/8bc4e43f3297cf4f6958c8bc19f72c613036cb39))
+
 ## [1.1.13](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.1.12...v1.1.13) (2021-11-20)
 
 
