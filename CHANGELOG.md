@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.0...v1.2.1) (2021-11-20)
+
+
+### Bug Fixes
+
+* remove cdn.CoCreate.min.css ([14eb48f](https://github.com/CoCreate-app/CoCreate-rich-text/commit/14eb48fce8945dbc5f13979fef632dd8f7077781))
+
 # [1.2.0](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.1.13...v1.2.0) (2021-11-20)
 
 
