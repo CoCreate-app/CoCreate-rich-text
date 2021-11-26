@@ -1,3 +1,11 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.3...v1.2.4) (2021-11-26)
+
+
+### Bug Fixes
+
+* add nav and sidenav to docs ([e37f4b8](https://github.com/CoCreate-app/CoCreate-rich-text/commit/e37f4b89ea5c0f75010960dffc0758e05b486120))
+* updated action dependency to actions ([46392fe](https://github.com/CoCreate-app/CoCreate-rich-text/commit/46392fec9323b46468eeb89961c68a8fda81e561))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.2...v1.2.3) (2021-11-26)
 
 
