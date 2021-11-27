@@ -1,3 +1,10 @@
+## [1.2.5](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.4...v1.2.5) (2021-11-27)
+
+
+### Bug Fixes
+
+* update docs api and cocreateJS script ([60ffe87](https://github.com/CoCreate-app/CoCreate-rich-text/commit/60ffe87f97add103a5738f5dc6ef9acd65a5b249))
+
 ## [1.2.4](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.3...v1.2.4) (2021-11-26)
 
 
