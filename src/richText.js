@@ -1,4 +1,4 @@
-import action from '@cocreate/action';
+import action from '@cocreate/actions';
 import text from '@cocreate/text';
 import getSelection from '@cocreate/selection';
 

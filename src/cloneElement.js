@@ -1,5 +1,5 @@
 /*global CustomEvent*/
-import action from '@cocreate/action';
+import action from '@cocreate/actions';
 import toolbar from '@cocreate/toolbar';
 import text from '@cocreate/text';
 
