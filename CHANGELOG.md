@@ -1,3 +1,10 @@
+## [1.2.10](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.9...v1.2.10) (2022-01-01)
+
+
+### Bug Fixes
+
+* get-value attribute value now supports a selector added # to all values currently in get-value attributes ([1c032a8](https://github.com/CoCreate-app/CoCreate-rich-text/commit/1c032a8483773c546f18d9083ddbd9f4ba1cc432))
+
 ## [1.2.9](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.8...v1.2.9) (2021-12-15)
 
 
