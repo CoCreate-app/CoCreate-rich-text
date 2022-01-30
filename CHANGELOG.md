@@ -1,3 +1,10 @@
+## [1.2.11](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.10...v1.2.11) (2022-01-30)
+
+
+### Bug Fixes
+
+* removed deleteElement. Was replaced by CoCreate-remove ([089403f](https://github.com/CoCreate-app/CoCreate-rich-text/commit/089403f890fc23c45091ffd887093ae193dba831))
+
 ## [1.2.10](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.9...v1.2.10) (2022-01-01)
 
 
