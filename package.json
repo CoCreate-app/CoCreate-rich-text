@@ -65,7 +65,6 @@
     "@cocreate/docs": "^1.2.62",
     "@cocreate/hosting": "^1.2.58",
     "@cocreate/text": "^1.14.1",
-    "@cocreate/toolbar": "^1.7.20",
     "@cocreate/uuid": "^1.1.51"
   }
 }
