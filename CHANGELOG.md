@@ -1,3 +1,10 @@
+## [1.2.16](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.15...v1.2.16) (2022-02-16)
+
+
+### Bug Fixes
+
+* update action param to name ([c4adc6f](https://github.com/CoCreate-app/CoCreate-rich-text/commit/c4adc6f569b6f09faa975c774b2dc87fcfd5e494))
+
 ## [1.2.15](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.14...v1.2.15) (2022-02-10)
 
 
