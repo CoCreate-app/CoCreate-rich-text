@@ -40,7 +40,7 @@ function  deleteElement(btn) {
 }
 
 action.init({
-	action: "deleteElement",
+	name: "deleteElement",
 	endEvent: "deleteElement",
 	callback: (btn, data) => {
 		deleteElement(btn);
@@ -48,7 +48,7 @@ action.init({
 });
 
 action.init({
-	action: "cloneElement",
+	name: "cloneElement",
 	endEvent: "cloneElement",
 	callback: (btn, data) => {
 		cloneElement(btn);

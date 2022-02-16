@@ -26,7 +26,7 @@ function  dispatchClickEvent(target) {
 }
 
 action.init({
-	action: "cloneElement",
+	name: "cloneElement",
 	endEvent: "cloneElement",
 	callback: (btn, data) => {
 		cloneElement(btn);

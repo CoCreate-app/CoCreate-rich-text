@@ -35,7 +35,7 @@ function  nodeName(btn) {
 }
 
 action.init({
-	action: "nodeName",
+	name: "nodeName",
 	endEvent: "nodeName",
 	callback: (btn, data) => {
 		nodeName(btn);
