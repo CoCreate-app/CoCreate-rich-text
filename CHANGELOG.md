@@ -1,3 +1,10 @@
+## [1.2.19](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.18...v1.2.19) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([46f1896](https://github.com/CoCreate-app/CoCreate-rich-text/commit/46f18961c003a0ae0820aec1664bda9600dd95ff))
+
 ## [1.2.18](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.17...v1.2.18) (2022-02-24)
 
 
