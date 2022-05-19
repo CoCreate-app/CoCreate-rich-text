@@ -1,3 +1,10 @@
+## [1.2.20](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.19...v1.2.20) (2022-05-19)
+
+
+### Bug Fixes
+
+* update document_id on link index.css ([e0e72b4](https://github.com/CoCreate-app/CoCreate-rich-text/commit/e0e72b49a32d3684b903ec9e7afa30e1cc55dee8))
+
 ## [1.2.19](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.18...v1.2.19) (2022-05-06)
 
 
