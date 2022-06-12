@@ -1,3 +1,11 @@
+## [1.2.22](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.21...v1.2.22) (2022-06-12)
+
+
+### Bug Fixes
+
+* update dependencies ([aa5deda](https://github.com/CoCreate-app/CoCreate-rich-text/commit/aa5dedad5ada7a7a4a912f954a635b35ab4ff585))
+* update docs css document_id ([bcba611](https://github.com/CoCreate-app/CoCreate-rich-text/commit/bcba611117414d1ab74d076dfac246df0efb4829))
+
 ## [1.2.21](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.20...v1.2.21) (2022-05-23)
 
 
