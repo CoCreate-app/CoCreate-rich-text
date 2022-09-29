@@ -1,3 +1,10 @@
+## [1.2.25](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.24...v1.2.25) (2022-09-29)
+
+
+### Bug Fixes
+
+* config renameed to CoCreateConfig ([9a6ad1e](https://github.com/CoCreate-app/CoCreate-rich-text/commit/9a6ad1ea81a40e9b059030c67f25ce90918b3361))
+
 ## [1.2.24](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.23...v1.2.24) (2022-09-01)
 
 
