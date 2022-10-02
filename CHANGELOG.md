@@ -1,3 +1,10 @@
+## [1.2.32](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.31...v1.2.32) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump @cocreate/hosting and @cocreate/socket-client ([fdc3242](https://github.com/CoCreate-app/CoCreate-rich-text/commit/fdc3242fee8626fe91e2fa9aa6d18fa4041319a3))
+
 ## [1.2.31](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.30...v1.2.31) (2022-10-01)
 
 
