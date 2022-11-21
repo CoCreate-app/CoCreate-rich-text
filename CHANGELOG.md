@@ -1,3 +1,10 @@
+## [1.2.36](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.35...v1.2.36) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([d17c405](https://github.com/CoCreate-app/CoCreate-rich-text/commit/d17c405df410fc2864d08089f3242f822c92188d))
+
 ## [1.2.35](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.34...v1.2.35) (2022-11-21)
 
 
