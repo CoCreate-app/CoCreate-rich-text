@@ -1,3 +1,11 @@
+## [1.2.38](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.37...v1.2.38) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([0022a42](https://github.com/CoCreate-app/CoCreate-rich-text/commit/0022a42b08b7b9c26f22278d114a0f942e0bbc54))
+* workflow docs ([a63a519](https://github.com/CoCreate-app/CoCreate-rich-text/commit/a63a5191df5316cf57b5e8b0e0b899f48636d978))
+
 ## [1.2.37](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.36...v1.2.37) (2022-11-21)
 
 
