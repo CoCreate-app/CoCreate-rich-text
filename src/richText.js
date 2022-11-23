@@ -11,7 +11,7 @@ function  nodeName(btn) {
 
 	let Document = document;
 	if (targetSelector) {
-		if(targetSelector.indexOf(';') !== -1) {
+		if (targetSelector.indexOf(';') !== -1) {
 			let documentSelector;
 			[documentSelector, targetSelector] = targetSelector.split(';');
 			let frame = document.querySelector(documentSelector);
@@ -21,13 +21,13 @@ function  nodeName(btn) {
 	}
 	
 	const selection = Document.getSelection();
-	if(!element)
+	if (!element)
 		element = selection.anchorNode.parentElement;
 
 	let value = selection.toString();
 	
 	const { start, end, range } = getSelection(element);
-    if(start != end) {
+    if (start != end) {
         text.updateText(element, start, end, range);
     }
     let newValue = `<${name}>${value}</${name}>`;
