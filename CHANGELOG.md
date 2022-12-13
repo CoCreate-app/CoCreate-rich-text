@@ -1,3 +1,10 @@
+## [1.2.55](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.54...v1.2.55) (2022-12-13)
+
+
+### Bug Fixes
+
+* removed un used devDependencies ([b42b6f8](https://github.com/CoCreate-app/CoCreate-rich-text/commit/b42b6f8f946ca6e590abea2d50f1c00b420d5cae))
+
 ## [1.2.54](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.53...v1.2.54) (2022-12-13)
 
 
