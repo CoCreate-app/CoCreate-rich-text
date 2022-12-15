@@ -1,3 +1,10 @@
+## [1.2.56](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.55...v1.2.56) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([e82de61](https://github.com/CoCreate-app/CoCreate-rich-text/commit/e82de619e07ca2f77de26893f7b862f96a94a70e))
+
 ## [1.2.55](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.54...v1.2.55) (2022-12-13)
 
 
