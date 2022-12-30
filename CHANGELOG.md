@@ -1,3 +1,10 @@
+## [1.2.65](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.64...v1.2.65) (2022-12-30)
+
+
+### Bug Fixes
+
+* update config sources to use template  braces with entry on src ([9dfd2a8](https://github.com/CoCreate-app/CoCreate-rich-text/commit/9dfd2a86806f6abb84b42d539d8dfed71e73bef6))
+
 ## [1.2.64](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.63...v1.2.64) (2022-12-29)
 
 
