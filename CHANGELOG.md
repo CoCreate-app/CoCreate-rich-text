@@ -1,3 +1,10 @@
+## [1.2.67](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.66...v1.2.67) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([3e675e4](https://github.com/CoCreate-app/CoCreate-rich-text/commit/3e675e4c907e22449e98db0d761a647d83d0b8d6))
+
 ## [1.2.66](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.65...v1.2.66) (2022-12-31)
 
 
