@@ -20,9 +20,7 @@
     "html5-framework",
     "javascript-framework"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
+  "publishConfig": { "access": "public" },
   "scripts": {
     "start": "npx webpack --config webpack.config.js",
     "build": "NODE_ENV=production npx webpack --config webpack.config.js",
@@ -60,10 +58,10 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@cocreate/actions": "^1.5.54",
-    "@cocreate/docs": "^1.5.8",
-    "@cocreate/hosting": "^1.7.8",
-    "@cocreate/text": "^1.18.39",
-    "@cocreate/uuid": "^1.2.57"
+    "@cocreate/actions": "^1.5.55",
+    "@cocreate/docs": "^1.5.9",
+    "@cocreate/hosting": "^1.7.9",
+    "@cocreate/text": "^1.18.40",
+    "@cocreate/uuid": "^1.2.58"
   }
 }
