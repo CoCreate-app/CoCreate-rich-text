@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.77...v1.3.0) (2023-03-16)
+
+
+### Features
+
+* replaced get-value and set-value with a super charged version of CoCreate-events ([13cc5f7](https://github.com/CoCreate-app/CoCreate-rich-text/commit/13cc5f7f4a172fa5a065dd19b2bc03f5d909056e))
+
 ## [1.2.77](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.2.76...v1.2.77) (2023-02-01)
 
 
