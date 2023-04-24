@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.3.6...v1.4.0) (2023-04-24)
+
+
+### Features
+
+* added pwa manifest ([174ebb5](https://github.com/CoCreate-app/CoCreate-rich-text/commit/174ebb58e62a3ec9290aa04438026b0c98b9fee0))
+
 ## [1.3.6](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.3.5...v1.3.6) (2023-04-11)
 
 
