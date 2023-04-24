@@ -1,3 +1,11 @@
+## [1.4.3](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.2...v1.4.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([9bbaa7e](https://github.com/CoCreate-app/CoCreate-rich-text/commit/9bbaa7edba674bc511b06ef26b6e97f678a32721))
+* workflow node version updated  16 ([a9bef8c](https://github.com/CoCreate-app/CoCreate-rich-text/commit/a9bef8cccdaca77abde36b3ef483c64f9df6acdd))
+
 ## [1.4.2](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.1...v1.4.2) (2023-04-24)
 
 
