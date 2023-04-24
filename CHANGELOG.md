@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.0...v1.4.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* removed uglifyjs-webpack-plugin ([31fdbfc](https://github.com/CoCreate-app/CoCreate-rich-text/commit/31fdbfcc907008841e4fc335e44e871d7a84c6f6))
+
 # [1.4.0](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.3.6...v1.4.0) (2023-04-24)
 
 
