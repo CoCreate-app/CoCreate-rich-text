@@ -1,3 +1,12 @@
+## [1.4.4](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.3...v1.4.4) (2023-04-30)
+
+
+### Bug Fixes
+
+* fullscreen target updated to fullscreen fullscreen-target ([a08204b](https://github.com/CoCreate-app/CoCreate-rich-text/commit/a08204bb0be8856c4d799dcdfcfd5b64fdea21ba))
+* package-lock.json and pnpm-lock.yaml added to .gitignore ([3b3e716](https://github.com/CoCreate-app/CoCreate-rich-text/commit/3b3e716a38429fc0fea5c4e936e57b987a345628))
+* removed toogle fullscreen icons. now using css content ([e378e7c](https://github.com/CoCreate-app/CoCreate-rich-text/commit/e378e7c9a19cf261c145cd819bd6de2c9877a283))
+
 ## [1.4.3](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.2...v1.4.3) (2023-04-24)
 
 
