@@ -1,3 +1,10 @@
+## [1.4.6](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.5...v1.4.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([6c127d6](https://github.com/CoCreate-app/CoCreate-rich-text/commit/6c127d6d2206465ba1b38ad373a7bba05e6c161c))
+
 ## [1.4.5](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.4...v1.4.5) (2023-05-01)
 
 
