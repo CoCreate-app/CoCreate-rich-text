@@ -1,3 +1,10 @@
+## [1.4.5](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.4...v1.4.5) (2023-05-01)
+
+
+### Bug Fixes
+
+* replace fontawesome with svg ([4dfe3cb](https://github.com/CoCreate-app/CoCreate-rich-text/commit/4dfe3cb76a68e42adee5eea9c51f33b82d53d3ac))
+
 ## [1.4.4](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.3...v1.4.4) (2023-04-30)
 
 
