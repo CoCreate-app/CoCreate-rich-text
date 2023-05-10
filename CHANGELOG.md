@@ -1,3 +1,10 @@
+## [1.4.8](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.7...v1.4.8) (2023-05-10)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([70bbec6](https://github.com/CoCreate-app/CoCreate-rich-text/commit/70bbec6daec9a4f9e1d973d65bd463c639d2ad8a))
+
 ## [1.4.7](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.6...v1.4.7) (2023-05-06)
 
 
