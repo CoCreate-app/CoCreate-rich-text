@@ -1,3 +1,10 @@
+## [1.4.9](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.8...v1.4.9) (2023-05-19)
+
+
+### Bug Fixes
+
+* update packages to latest version. This commit updates various packages in the dependencies section of the package.json file to their latest published versions, thereby fixing multiple bugs and improving overall performance. ([7d84b38](https://github.com/CoCreate-app/CoCreate-rich-text/commit/7d84b38543cb7e8ff91af0e9b4932f1f1b8c2321))
+
 ## [1.4.8](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.7...v1.4.8) (2023-05-10)
 
 
