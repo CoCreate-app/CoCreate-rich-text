@@ -1,3 +1,10 @@
+## [1.4.11](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.10...v1.4.11) (2023-06-02)
+
+
+### Bug Fixes
+
+* format demo html ([8160dde](https://github.com/CoCreate-app/CoCreate-rich-text/commit/8160dde1603adb5cfdb4b1e572b4c27552d6d075))
+
 ## [1.4.10](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.9...v1.4.10) (2023-05-21)
 
 
