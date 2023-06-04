@@ -1,3 +1,11 @@
+## [1.4.13](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.12...v1.4.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([63307b4](https://github.com/CoCreate-app/CoCreate-rich-text/commit/63307b4e11ea8a89ccf0dc90c6ab780545ec123b))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([dab793a](https://github.com/CoCreate-app/CoCreate-rich-text/commit/dab793a6ee83b859b1860d5f60cb4c94b23cd7dd))
+
 ## [1.4.12](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.11...v1.4.12) (2023-06-04)
 
 
