@@ -1,3 +1,10 @@
+## [1.4.14](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.13...v1.4.14) (2023-06-04)
+
+
+### Bug Fixes
+
+* Refactor CoCreate.config.js to remove hard-coded credentials ([4f81bad](https://github.com/CoCreate-app/CoCreate-rich-text/commit/4f81badb20a86634bae9188cfce7ed7db88bf8fe))
+
 ## [1.4.13](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.12...v1.4.13) (2023-06-04)
 
 
