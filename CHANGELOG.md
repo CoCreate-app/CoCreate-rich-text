@@ -1,3 +1,10 @@
+## [1.4.12](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.11...v1.4.12) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([d0613fd](https://github.com/CoCreate-app/CoCreate-rich-text/commit/d0613fd77bd681b7eb9712f42e96aeb364b571a6))
+
 ## [1.4.11](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.10...v1.4.11) (2023-06-02)
 
 
