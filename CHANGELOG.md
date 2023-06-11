@@ -1,3 +1,10 @@
+## [1.4.19](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.18...v1.4.19) (2023-06-11)
+
+
+### Bug Fixes
+
+* @cocreate/cli moved to dependencies ([60872b9](https://github.com/CoCreate-app/CoCreate-rich-text/commit/60872b907ac3e690fc62f300bfee1aed1ac5f209))
+
 ## [1.4.18](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.17...v1.4.18) (2023-06-11)
 
 
