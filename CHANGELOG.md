@@ -1,3 +1,10 @@
+## [1.4.21](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.20...v1.4.21) (2023-06-11)
+
+
+### Bug Fixes
+
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([d792b2a](https://github.com/CoCreate-app/CoCreate-rich-text/commit/d792b2a64c5f1f0dc2bbf44acd7b3826e31d03e1))
+
 ## [1.4.20](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.19...v1.4.20) (2023-06-11)
 
 
