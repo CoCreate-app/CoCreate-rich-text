@@ -1,3 +1,10 @@
+## [1.4.25](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.24...v1.4.25) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([a43dbbf](https://github.com/CoCreate-app/CoCreate-rich-text/commit/a43dbbf131ab9010c2cab5dbd88e1e9b5970bc3a))
+
 ## [1.4.24](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.23...v1.4.24) (2023-06-11)
 
 
