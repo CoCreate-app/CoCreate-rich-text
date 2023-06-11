@@ -1,3 +1,10 @@
+## [1.4.20](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.19...v1.4.20) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([1f8d638](https://github.com/CoCreate-app/CoCreate-rich-text/commit/1f8d638b49e5b082611597b6a505f41f15c9fed2))
+
 ## [1.4.19](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.18...v1.4.19) (2023-06-11)
 
 
