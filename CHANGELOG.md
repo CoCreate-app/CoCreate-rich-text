@@ -1,3 +1,10 @@
+## [1.4.17](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.16...v1.4.17) (2023-06-11)
+
+
+### Bug Fixes
+
+* renamed hosts to host. the value can be a string or an array of strings ([800e668](https://github.com/CoCreate-app/CoCreate-rich-text/commit/800e66852c059a57c6d873b12fe53235377fcc13))
+
 ## [1.4.16](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.15...v1.4.16) (2023-06-10)
 
 
