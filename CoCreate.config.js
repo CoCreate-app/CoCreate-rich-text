@@ -4,8 +4,8 @@ module.exports = {
     "host": "",
     "sources": [
         {
-            "collection": "files",
-            "document": {
+            "array": "files",
+            "object": {
                 "_id": "637ca62450234ef1671ce32e",
                 "name": "index.html",
                 "path": "/docs/rich-text/index.html",
