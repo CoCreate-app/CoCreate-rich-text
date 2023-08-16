@@ -1,3 +1,18 @@
+# [1.5.0](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.28...v1.5.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([4cbf7da](https://github.com/CoCreate-app/CoCreate-rich-text/commit/4cbf7da4b036f1c79a9907b991adb344cd99e4df))
+* replace -target -selector ([2c5bc75](https://github.com/CoCreate-app/CoCreate-rich-text/commit/2c5bc75470844fa2b5c94908a84b38921cd8e66d))
+* updated actions callback data object ([672a60d](https://github.com/CoCreate-app/CoCreate-rich-text/commit/672a60d2046daa1901a486ab11b7c5db3f2fe800))
+* webpack.config and package.json make use of mode=production instead of process.env ([e37e893](https://github.com/CoCreate-app/CoCreate-rich-text/commit/e37e893217bddd8d61de967c1c9f397ec06545d5))
+
+
+### Features
+
+* name attribute and variable renamed to key ([3b5f85b](https://github.com/CoCreate-app/CoCreate-rich-text/commit/3b5f85be4a88678899854dcc8da5b3397606893d))
+
 ## [1.4.28](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.4.27...v1.4.28) (2023-06-14)
 
 
