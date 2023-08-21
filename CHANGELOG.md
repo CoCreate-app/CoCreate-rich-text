@@ -1,3 +1,12 @@
+## [1.6.1](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.6.0...v1.6.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([38a0cfe](https://github.com/CoCreate-app/CoCreate-rich-text/commit/38a0cfebde854641ecced917865a5c1b7b169f93))
+* replace cdn with /dist ([f86f9a8](https://github.com/CoCreate-app/CoCreate-rich-text/commit/f86f9a86c8e9c39a2d68721a9c8f9f42a022a9ac))
+* update file uploader ([a84aad5](https://github.com/CoCreate-app/CoCreate-rich-text/commit/a84aad57783a75be7a9a7189e126ac99244df115))
+
 # [1.6.0](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.5.0...v1.6.0) (2023-08-17)
 
 
