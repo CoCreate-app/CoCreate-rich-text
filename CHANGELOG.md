@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.7.0...v1.7.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* bump dependencies ([7170e68](https://github.com/CoCreate-app/CoCreate-rich-text/commit/7170e68ca1314da44f8d7e371ec8c3fc71301d7d))
+
 # [1.7.0](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.6.1...v1.7.0) (2023-08-21)
 
 
