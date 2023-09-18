@@ -1,3 +1,11 @@
+## [1.7.2](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.7.1...v1.7.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([97c8e5d](https://github.com/CoCreate-app/CoCreate-rich-text/commit/97c8e5da9bb85848a48a15629490615c6e49e49e))
+* Update CoCreate depndencies to latest versions ([097b10e](https://github.com/CoCreate-app/CoCreate-rich-text/commit/097b10efb3090832d48e01eea386bd8efcf10b8f))
+
 ## [1.7.1](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.7.0...v1.7.1) (2023-08-21)
 
 
