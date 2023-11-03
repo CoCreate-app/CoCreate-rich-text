@@ -1,3 +1,11 @@
+## [1.7.7](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.7.6...v1.7.7) (2023-11-03)
+
+
+### Bug Fixes
+
+* favicon.ico path ([d1fc8d6](https://github.com/CoCreate-app/CoCreate-rich-text/commit/d1fc8d6d746bf2a0d3514ddd8842e6cf3e4e4a6f))
+* update dependencies to the lates versions ([03f7a2b](https://github.com/CoCreate-app/CoCreate-rich-text/commit/03f7a2b9617797471fd3b5edd54fa822c10b90b4))
+
 ## [1.7.6](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.7.5...v1.7.6) (2023-10-25)
 
 
