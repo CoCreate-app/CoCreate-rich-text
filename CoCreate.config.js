@@ -12,8 +12,7 @@ module.exports = {
                 "pathname": "/docs/rich-text/index.html",
                 "src": "{{./docs/index.html}}",
                 "host": [
-                    "*",
-                    "general.cocreate.app"
+                    "*"
                 ],
                 "directory": "rich-text",
                 "content-type": "{{content-type}}",
