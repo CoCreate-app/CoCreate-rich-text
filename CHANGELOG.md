@@ -1,3 +1,11 @@
+## [1.7.8](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.7.7...v1.7.8) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([08ef27a](https://github.com/CoCreate-app/CoCreate-rich-text/commit/08ef27a3d4e867c0319f58e19ed8d53ed94714a5))
+* update host ([17bed5f](https://github.com/CoCreate-app/CoCreate-rich-text/commit/17bed5fe39128135e6786a69984fe504d63347d5))
+
 ## [1.7.7](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.7.6...v1.7.7) (2023-11-03)
 
 
