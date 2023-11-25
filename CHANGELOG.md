@@ -1,3 +1,15 @@
+# [1.9.0](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.8.0...v1.9.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([7345b30](https://github.com/CoCreate-app/CoCreate-rich-text/commit/7345b3091dceb7673df6222c2cbef580a86b3c5c))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([5bb601a](https://github.com/CoCreate-app/CoCreate-rich-text/commit/5bb601aff57c3a51c7a98d1897412c085f0f0fb9))
+
 # [1.8.0](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.7.9...v1.8.0) (2023-11-19)
 
 
