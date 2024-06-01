@@ -1,43 +1,39 @@
 import action from '@cocreate/actions';
 import text from '@cocreate/text';
-import getSelection from '@cocreate/selection';
+// import { getSelection } from '@cocreate/selection';
 
-	let element;
-	
-function  nodeName(btn) {
-	let name = btn.getAttribute('nodename');
-	if (!name) return;
-	let targetSelector = btn.getAttribute('nodetarget');
+// let element;
 
-	let Document = document;
-	if (targetSelector) {
-		if (targetSelector.indexOf(';') !== -1) {
-			let documentSelector;
-			[documentSelector, targetSelector] = targetSelector.split(';');
-			let frame = document.querySelector(documentSelector);
-			Document = frame.contentDocument;
-			element = Document.documentElement;
-		}
-	}
-	
-	const selection = Document.getSelection();
-	if (!element)
-		element = selection.anchorNode.parentElement;
+function nodeName(btn) {
+    let name = btn.getAttribute('node-name');
+    if (!name) return;
+    let targetSelector = btn.getAttribute('node-target');
 
-	let value = selection.toString();
-	
-	const { start, end, range } = getSelection(element);
-    if (start != end) {
-        text.updateText(element, start, end, range);
+    let Document = document;
+    if (targetSelector) {
+        if (targetSelector.indexOf(';') !== -1) {
+            let documentSelector;
+            [documentSelector, targetSelector] = targetSelector.split(';');
+            let frame = document.querySelector(documentSelector);
+            Document = frame.contentDocument;
+            // element = Document.documentElement;
+        }
     }
+
+    const { element, value, start, end, range } = Document.activeSelection;
+
+    if (start != end) {
+        text.updateText({ element, start, end, range });
+    }
+
     let newValue = `<${name}>${value}</${name}>`;
-    text.updateText(element, newValue, start, range);
+    text.updateText({ element, value: newValue, start, range });
 }
 
 action.init({
-	name: "nodeName",
-	endEvent: "nodeName",
-	callback: (data) => {
+    name: "nodeName",
+    endEvent: "nodeName",
+    callback: (data) => {
         nodeName(data.element);
-	}
+    }
 });
