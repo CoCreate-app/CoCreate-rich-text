@@ -1,6 +1,6 @@
 import action from '@cocreate/actions';
 import text from '@cocreate/text';
-// import { getSelection } from '@cocreate/selection';
+import { setSelection } from '@cocreate/selection';
 
 // let element;
 
@@ -21,6 +21,7 @@ function nodeName(btn) {
     }
 
     const { element, value, start, end, range } = Document.activeSelection;
+    setSelection(element, start, end, range)
 
     if (start != end) {
         text.updateText({ element, start, end, range });
