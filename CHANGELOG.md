@@ -1,3 +1,13 @@
+## [1.10.2](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.10.1...v1.10.2) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([db62210](https://github.com/CoCreate-app/CoCreate-rich-text/commit/db62210855b54177704a0b0605ba363acdcf721c))
+* set activeSelection as clicking btn changes the selection ([a541dbd](https://github.com/CoCreate-app/CoCreate-rich-text/commit/a541dbdb7a8918031d0f78225e67499889b5b612))
+* svg icon class ([452f5c9](https://github.com/CoCreate-app/CoCreate-rich-text/commit/452f5c94e48ec26382c91a29bc6515e1b8cbb008))
+* updateText param ([259eaea](https://github.com/CoCreate-app/CoCreate-rich-text/commit/259eaea0d28505f6fb289050accc7d9171b866f5))
+
 ## [1.10.1](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.10.0...v1.10.1) (2024-04-29)
 
 
