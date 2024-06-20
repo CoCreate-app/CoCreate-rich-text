@@ -5,7 +5,10 @@ import text from '@cocreate/text';
 function cloneElement(btn) {
     let element = btn.closest('toolbar, .toolbar');
     let targetElement = element.toolbar.target;
-    let domTextEditor = targetElement.ownerDocument.documentElement;
+    let domTextEditor = targetElement.closest('[contenteditable][array][object][key]');
+    if (!domTextEditor.htmlString) {
+        domTextEditor = domTextEditor.closest('[contenteditable]');
+    }
 
     var clone = targetElement.cloneNode(true);
 
