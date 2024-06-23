@@ -1,3 +1,10 @@
+## [1.10.3](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.10.2...v1.10.3) (2024-06-23)
+
+
+### Bug Fixes
+
+* targeting elements selected in a contenteditable element ([fa1aa8b](https://github.com/CoCreate-app/CoCreate-rich-text/commit/fa1aa8b5d52d327c3a110669a6d3b10996bf7802))
+
 ## [1.10.2](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.10.1...v1.10.2) (2024-06-12)
 
 
