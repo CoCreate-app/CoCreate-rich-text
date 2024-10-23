@@ -1,57 +1,58 @@
 /*global CustomEvent*/
 import action from '@cocreate/actions';
-import toolbar from '@cocreate/toolbar';
-import text from '@cocreate/text';
 
-function cloneElement(btn) {
-    let element = btn.closest('toolbar, .toolbar');
-    let targetElement = element.toolbar.target;
-    let domTextEditor = targetElement.ownerDocument.documentElement;
+/**
+ * Copies the target element's HTML to the clipboard.
+ * @param {HTMLElement} btn - The button element that triggered the copy action.
+ */
+async function copyElementToClipboard(btn) {
+    try {
+        // Find the closest toolbar ancestor
+        const toolbarElement = btn.closest('toolbar, .toolbar');
+        if (!toolbarElement) {
+            console.error('No toolbar ancestor found.');
+            return;
+        }
 
-    var clone = targetElement.cloneNode(true);
+        const targetElement = toolbarElement.toolbar.target;
+        if (!targetElement) {
+            console.error('No target element found in the toolbar.');
+            return;
+        }
 
-    text.insertAdjacentElement({
-        domTextEditor,
-        position: 'afterend',
-        target: targetElement,
-        elementValue: clone.outerHTML,
-    });
+        // Get the outer HTML of the target element
+        const elementHTML = targetElement.outerHTML;
 
-    dispatchClickEvent(clone);
+        // Copy the HTML to the clipboard
+        await navigator.clipboard.writeText(elementHTML);
+        console.log('Element HTML copied to clipboard successfully!');
+
+        // Dispatch the copyElement event to trigger the next action in the chain
+        dispatchCopyEvent(targetElement);
+    } catch (err) {
+        console.error('Failed to copy element HTML to clipboard:', err);
+    }
 }
 
-function dispatchClickEvent(target) {
-    let clickEvent = new CustomEvent('click', { bubbles: true });
-    Object.defineProperty(clickEvent, 'target', { writable: false, value: target });
-    target.ownerDocument.dispatchEvent(clickEvent);
+/**
+ * Dispatches a custom 'copyElement' event to trigger the next action in the chain.
+ * @param {HTMLElement} target - The element associated with the event.
+ */
+function dispatchCopyEvent(target) {
+    const copyEvent = new CustomEvent('copyElement', { bubbles: true });
+
+    // Define the 'target' property as non-writable and set its value
+    Object.defineProperty(copyEvent, 'target', { writable: false, value: target });
+
+    // Dispatch the event from the document
+    target.ownerDocument.dispatchEvent(copyEvent);
 }
 
-function deleteElement(btn) {
-    let element = btn.closest('toolbar, .toolbar');
-    let targetElement = element.toolbar.target;
-    let domTextEditor = targetElement.ownerDocument.documentElement;
-
-    text.removeElement({
-        domTextEditor,
-        target: targetElement
-    });
-
-    toolbar.hide(element);
-}
-
+// Initialize the copy action
 action.init({
-    name: "deleteElement",
-    endEvent: "deleteElement",
+    name: "copyElement",
+    endEvent: "copyElement",
     callback: (data) => {
-        deleteElement(data.element);
+        copyElementToClipboard(data.element);
     }
 });
-
-action.init({
-    name: "cloneElement",
-    endEvent: "cloneElement",
-    callback: (data) => {
-        cloneElement(data.element);
-    }
-});
-
