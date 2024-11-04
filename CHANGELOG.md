@@ -1,3 +1,16 @@
+# [1.11.0](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.10.3...v1.11.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* pretier.config.js and file formating ([31b24dc](https://github.com/CoCreate-app/CoCreate-rich-text/commit/31b24dc76c22127ec91b30cc4c6b55d0561a6c01))
+
+
+### Features
+
+* add prettier.config.js and format files ([896ed5c](https://github.com/CoCreate-app/CoCreate-rich-text/commit/896ed5c9f0159ad47cc75c95e17197194e4d9552))
+* copy action to copy selected text to clip board ([26e02a4](https://github.com/CoCreate-app/CoCreate-rich-text/commit/26e02a4f4469ac2f2cf61955c4cb0495eede934c))
+
 ## [1.10.3](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.10.2...v1.10.3) (2024-06-23)
 
 
