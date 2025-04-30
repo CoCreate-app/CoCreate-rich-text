@@ -1,3 +1,13 @@
+## [1.11.1](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.11.0...v1.11.1) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([1abb5ad](https://github.com/CoCreate-app/CoCreate-rich-text/commit/1abb5ad39d772604f9a52e57e34655588e28801a))
+* update query attributes ([46d0f34](https://github.com/CoCreate-app/CoCreate-rich-text/commit/46d0f34a0c83a6342135aaaacf17c25070964c3e))
+* updated cocreate modules versions ([3940091](https://github.com/CoCreate-app/CoCreate-rich-text/commit/394009145b2419dd5bd06840164b1c27dd8fbd22))
+* webpack.config and devdependencies ([0ad7dea](https://github.com/CoCreate-app/CoCreate-rich-text/commit/0ad7dea2b556be363893c224b41dcb49f0fbf531))
+
 # [1.11.0](https://github.com/CoCreate-app/CoCreate-rich-text/compare/v1.10.3...v1.11.0) (2024-11-04)
 
 
